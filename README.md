@@ -1,3 +1,6 @@
+# Benny's Notes
+* Todo: in typescript
+
 # Todo Challenge
 
 * Deadline: submit completed pull request by 9am on Monday
@@ -6,7 +9,7 @@
 Steps
 -------
 
-1. Fill out your learning plan self review for the week: https://github.com/makersacademy/learning_plan 
+1. Fill out your learning plan self review for the week: https://github.com/makersacademy/learning_plan
 2. Fork this repo, and clone to your local machine
 3. Complete the following challenge:
 
@@ -63,4 +66,3 @@ Don't worry about deployment, and make sure you read the CONTRIBUTING.md when su
 * Make it look purdy (CSS) - try a framework like Bootstrap or Foundation
 
 Good luck!
-
