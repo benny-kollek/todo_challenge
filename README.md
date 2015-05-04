@@ -1,5 +1,14 @@
 # Benny's Notes
-* Todo: in typescript
+* Todo: branch in typescript
+* Used Sinatra for a simple server.
+* The back end (although it is so simple it could be in the controller) is a separate js class
+* I used onclick events in the html, which I know is not ideal as you want to add these events
+in the controller, but jquery wasn't doing this for me for some reason.
+* I did not used angular (I tried!) as I could not set up the testing environment; running into
+error after error with very little supporting documentation or stackoverflow material. I also
+tried to use jasmine via npm and bower, which also gave me errors that I could not find the solution
+to.
+
 
 # Todo Challenge
 
