@@ -43,5 +43,12 @@ describe("ToDoList", function() {
       expect($('#tasks-table')).toContainText('Walk the dog');
       expect($('#tasks-table')).toContainText('Work out');
     });
+
+    it("task is removed when clicked on", function() {
+      $('#input-field').val('Walk the dog');
+      $('#enter-task-button').trigger('click');
+      $('#task0').trigger('click');
+      expect($('#tasks-table')).not.toHaveText('Walk the dog');
+    });
   });
 });
